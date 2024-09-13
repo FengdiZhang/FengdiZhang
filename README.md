@@ -11,7 +11,11 @@
 
 ### 🖥 About Me
 
-<h3 align="center">A passionate Developer <g-emoji class="g-emoji" alias="smile_cat" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f638.png">😺</g-emoji> from Canada</h3>
+<h3>
+  A passionate Developer from Canada 
+  <img src="https://github.githubassets.com/images/icons/emoji/octocat.png" width="30" height="30" alt="Octocat typing"/>
+</h3>
+
 
 
 - 🌱 I use mainly **React, Node.js, Python, JavaScript, and HTML**
