@@ -11,7 +11,7 @@
 
 #### 👗 &nbsp; About Me :
 
-A passionate Developer from Canada<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> ， graduated from McGill, , and love everything beautiful
+A passionate Developer from Canada<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> graduated from McGill 🇨🇦, and love everything beautiful
 
 
 - 🌱 I use mainly → React, Node.js, Python, JavaScript, and HTML
