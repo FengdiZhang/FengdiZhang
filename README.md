@@ -9,15 +9,16 @@
 
 </p>
 
-#### 💻 &nbsp; About Me :
+#### 👗 &nbsp; About Me :
 
-A passionate Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">from Canada 
+A passionate Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Canada 
 
 
-- 🌱 I use mainly **React, Node.js, Python, JavaScript, and HTML**
+- 🌱 I use mainly → React, Node.js, Python, JavaScript, and HTML
 - 👨‍💻 All of my projects are available at [https://yourportfolio.com](https://github.com/FengdiZhang)
 - 📫 How to reach me **faydi.mu06@gmail.com**
-- ⚡ Fun fact: **I love League of Legends!**
+- ⚡ Fun fact: I love League of Legends!⭐️
+
 
 
 ### 🖥️ Front-End Technologies
