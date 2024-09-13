@@ -15,11 +15,12 @@ A passionate Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtB
 
 
 - 🌱 I use mainly → React, Node.js, Python, JavaScript, and HTML
-- 👨‍💻 All of my projects are available at [https://yourportfolio.com](https://github.com/FengdiZhang)
-- 📫 How to reach me **faydi.mu06@gmail.com**
+- 👨‍💻 All of my projects are available at https://github.com/FengdiZhang
+- 📫 How to reach me faydi.mu06@gmail.com
 - ⚡ Fun fact: I love League of Legends!⭐️
 
 
+---
 
 ### 🖥️ Front-End Technologies
 
@@ -34,6 +35,8 @@ A passionate Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtB
   <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL" />
 </p>
 
+---
+
 ### 🛠️ Back-End Technologies
 
 <p align="center">
@@ -46,6 +49,8 @@ A passionate Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtB
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
   <img src="https://img.shields.io/badge/Bash/Shell-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash/Shell" />
 </p>
+
+---
 
 ### 🗄️ Databases and Tools
 
