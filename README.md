@@ -22,16 +22,6 @@ A passionate Developer from Canada<img src="https://media.giphy.com/media/WUlplc
 
 ---
 
-#### :fire: My Stats :
-
-<a href="https://github.com/FengdiZhang">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FengdiZhang&theme=light&count_private=true&layout=compact" width="205" alt="Fengdi's most used languages" />
-</a>
-<a href="https://github.com/FengdiZhang">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=FengdiZhang&show_icons=true&theme=light&line_height=27&include_all_commits=true&count_private=true&hide=issues,prs,contribs" width="350" alt="Fengdi's GitHub stats"/>
-</a>
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=FengdiZhang&theme=dark&background=000000)](https://git.io/streak-stats)
 
 
 ### 🖥️ Front-End Technologies
