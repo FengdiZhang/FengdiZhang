@@ -12,7 +12,7 @@
 
 A passionate Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> graduated from McGill 🇨🇦, and love everything beautiful.
 
-- 🌱 I use mainly → React, Node.js, Python, JavaScript, HTML, **ASP.NET**
+- 🌱 I use mainly → React, Node.js, Python, JavaScript
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/FengdiZhang)
 - 📫 How to reach me: faydi.mu06@gmail.com
 - ⚡ Fun fact: I love League of Legends!⭐️
